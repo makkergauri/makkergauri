@@ -2,7 +2,6 @@ Hey there 👋
 
 I'm Gauri, a Computer Science student at Vellore Institute of Technology, with a strong interest in machine learning, computer vision and cloud computing. I've built AI-driven applications, from real-time vision systems to LLM-powered chatbots, and I care about making them accurate, fast and practical for real-world use. 
 
-Always learning, always building.
 
 Tools & Tech
 
