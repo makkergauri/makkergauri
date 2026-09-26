@@ -1,29 +1,13 @@
-Hey there 👋
+Hi, I'm Gauri 👋
 
-I'm Gauri, a Computer Science student at Vellore Institute of Technology, with a strong interest in machine learning, computer vision and cloud computing. I've built AI-driven applications, from real-time vision systems to LLM-powered chatbots, and I care about making them accurate, fast and practical for real-world use. 
+Final-year CS student at VIT Bhopal. I build ML and data systems for real-world problems, and like building things from scratch to understand them.
 
+**Selected work**
+- [Landslide Risk Mapping](https://github.com/makkergauri/uttarakhand-landslide-risk): where slopes fail in Rudraprayag, from satellite data and random forests ([live map](https://makkergauri.github.io/uttarakhand-landslide-risk/))
+- [CommBot](https://github.com/makkergauri/commbot): official disaster warnings as Hindi/English SMS for phones without internet
+- [Dungeon Engine](https://github.com/makkergauri/dungeon-engine): 2D game engine from scratch in C++17
+- [Path Tracer](https://github.com/makkergauri/raytracer): physically based renderer in C++, no graphics libraries
 
-Tools & Tech
+**Tools:** Python, C++, TypeScript, SQL · PyTorch, scikit-learn, LangChain, Hugging Face · Flask, FastAPI, React · Google Earth Engine
 
-* Programming Languages: Python, Java, C++, JavaScript, SQL
-* Machine Learning & AI: PyTorch, TensorFlow, OpenCV, YOLO, MediaPipe, LangChain, Transformers, NumPy, Pandas
-* Backend & APIs: Flask, REST APIs
-* Databases: MySQL
-* Cloud & Tools: AWS, Git, GitHub, Jupyter Notebook
-
-📫 Reach me at gaurimakker2006@gmail.com or on [LinkedIn](https://www.linkedin.com/in/gauri-makker/)
-
-<!--
-**makkergauri/makkergauri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 gaurimakker2006@gmail.com · [LinkedIn](https://www.linkedin.com/in/gauri-makker/) · [Portfolio](https://makkergauri-portfolio.vercel.app)
